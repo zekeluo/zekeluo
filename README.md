@@ -47,6 +47,8 @@ Focused on **smart contract development** and on-chain solutions across Ethereum
 ERC-20/721/1155· Merkle Trees · ECDSA · Minimal Proxies (EIP-1167) · Gas Optimization · Upgradability
 
 ---
+### Link
+Telegram : @DogPersonL
 
 ### 💬 Motto
 
