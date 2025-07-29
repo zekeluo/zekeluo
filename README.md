@@ -5,6 +5,7 @@
 
 **Early Ethereum Developer (since \~2016)**
 **Smart contract development | Nvidia Hackathon Champion**
+
 Background includes Bachelor’s and Master’s degrees in Computer Science.
 
 Focused on **smart contract development** and on-chain solutions across Ethereum, Solana, and EOS, with deep experience designing and building complex blockchain protocols and systems from the ground up.
