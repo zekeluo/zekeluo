@@ -22,7 +22,10 @@ Focused on **smart contract development** and on-chain solutions across Ethereum
   * Technologies used: Merkle trees, elliptic curve signatures, oracles, IPFS, UUPS Proxy etc.
   * Aggregation bridge integrates Uniswap V2/V3/V4, PancakeSwap, Compound, Aave, and more
 
----
+--- 
+### Security & Code Quality
+> 🔐 All smart contracts I've developed have undergone rigorous security audits conducted by leading firms
+> such as **OpenZeppelin**, **Trail of Bits**,**Consensys Diligence** and **CertiK**,  ensuring high standards of code quality, security, and protocol design best practices.
 
 ### 🧰 Tech Stack
 
