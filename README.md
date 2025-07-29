@@ -43,8 +43,13 @@ Focused on **smart contract development** and on-chain solutions across Ethereum
 * IPFS / The Graph
 * Chainlink / Oracle protocols
 
-  **Smart Contract Know-how:**  
+**Smart Contract Know-how:**  
 ERC-20/721/1155· Merkle Trees · ECDSA · Minimal Proxies (EIP-1167) · Gas Optimization · Upgradability
+EIP-4337(Account Abstraction）
+ERC-165(interface checking) 
+EIP-1559 (Fee market reform and ETH burning)
+EIP-170(Contract code size limit (24KB))
+EIP-1014(CREATE2 – predictable contract addresses)
 
 ---
 ### Link
