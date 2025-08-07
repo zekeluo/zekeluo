@@ -8,7 +8,7 @@
 
 Background includes Bachelor’s and Master’s degrees in Computer Science.
 
-Focused on **smart contract development** and on-chain solutions across Ethereum, Solana, and EOS, with deep experience designing and building complex blockchain protocols and systems from the ground up.
+Focused on smart contract development and on-chain solutions across Ethereum, Solana, and EOS, including being a core developer in the design and implementation of a cross-chain bridge that now  over $6B in TVL.
 
 ---
 
@@ -16,11 +16,11 @@ Focused on **smart contract development** and on-chain solutions across Ethereum
 
 * 🥇 **Champion**, 3rd Nvidia DPU Hackathon
 * 🧱 Over 8 years of experience building on Ethereum (since 2016)
+* 🌉 Core developer in a cross-chain bridge project from 0 to 1, currently with TVL exceeding $6 billion
 * 🎓 **PMP certified**, skilled in project process optimization and strong problem identification
 * 🚀 Experienced in Agile methodologies, able to rapidly adapt and resolve project challenges
 * ✍️ CSDN Top 10 blockchain technology blogger
 * 🔧 Independently designed and implemented key components including DEXs, cross-chain bridges, aggregation bridges, and clippers
-
   * Technologies used: Merkle trees, elliptic curve signatures, oracles, IPFS, UUPS Proxy etc.
   * Aggregation bridge integrates Uniswap V2/V3/V4, PancakeSwap, Compound, Aave, and more
 
